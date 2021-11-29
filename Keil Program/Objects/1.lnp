@@ -1,0 +1,7 @@
+".\Objects\STARTUP.obj",
+".\Objects\1.obj",
+".\Objects\lcd1602.obj",
+".\Objects\DS18B20.obj",
+".\Objects\OneWire.obj" 
+TO ".\Objects\1" 
+PRINT(".\Listings\1.m51")
